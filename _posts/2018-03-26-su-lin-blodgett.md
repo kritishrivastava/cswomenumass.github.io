@@ -5,7 +5,7 @@ date: 2018-03-26 00:00:00
 categories: social
 ---
 <br/><br/>
-[![Su's experience](/images/su-youtube_video.png)](https://www.youtube.com/watch?v=wZMX8mb1ln8)
+[![Su's experience](/images/su-youtube_video.PNG)](https://www.youtube.com/watch?v=wZMX8mb1ln8)
 
 
 
